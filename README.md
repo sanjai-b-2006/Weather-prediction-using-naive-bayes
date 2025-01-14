@@ -12,12 +12,12 @@ Wind Speed (wind): Speed of the wind
 
 Weather Condition (Target Variable):
 
-Drizzle
-
-Rain
-
-Sun
-
-Snow
-
-Fog
+  1)Drizzle
+  
+  2)Rain
+  
+  3)Sun
+  
+  4)Snow
+  
+  5)Fog
